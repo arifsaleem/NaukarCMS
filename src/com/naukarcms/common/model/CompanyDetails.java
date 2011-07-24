@@ -9,6 +9,7 @@ public class CompanyDetails {
 
 	private String name;
 	private String industry;
+	private String city;
 	private String country;
 	
 	public String getName() {
@@ -28,5 +29,11 @@ public class CompanyDetails {
 	}
 	public void setCountry(String country) {
 		this.country = country;
+	}
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
 	}
 }

@@ -13,12 +13,12 @@ public class SimpleCV {
 	private AddressDetails addressDetails;
 	
 	private ArrayList<WorkExperience> workHistory;
+	private ArrayList<EducationalHistory> educationHistory;
 	
-	private String profile;
+	private String objective;
 	
 	//List of objects
-	//Professional Qualifications
-	//Education Section
+	//Professional Qualifications/Certifications
 	//Skills broken down by level, type, category, name, last used, etc
 	
 }
